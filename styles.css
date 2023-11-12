@@ -12,7 +12,7 @@ body {
 }
 
 .funParagraph {
-    font-style: italic;
+    font-style: Arial, sans-serif;
     color: green;
     margin-bottom: 10px;
 }
